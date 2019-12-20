@@ -20,7 +20,7 @@ and visualizations using Python (and its libraries).
 
 Gathering, assessing, cleaning, storing, analyzing and visualzing efforts are documented in [Wrangle Act](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb)
 
-[Wrangle Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb) describes my wrangling efforts briefly.
+[Wrangle Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_report.ipynb) describes my wrangling efforts briefly.
 
 [Act Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
 
