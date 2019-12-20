@@ -5,8 +5,7 @@ of sources and in a variety of formats, assessed its quality and tidiness, then 
 I have documented my wrangling efforts in a Jupyter Notebook and showcased them through analyses 
 and visualizations using Python (and its libraries).
 
-### After completing the project, I covered:
-#### The steps involved to Wrangle and Analyze Data
+#### After completing the project, I covered the steps involved to Wrangle and Analyze Data
 1. Gathering Data
    1. The WeRateDogs Twitter archive.
    2. The tweet image predictions
