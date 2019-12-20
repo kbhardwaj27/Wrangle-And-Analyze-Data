@@ -57,3 +57,8 @@ alongside each tweet ID, image URL, and the image number that corresponded to th
 
 So that's all fun and good. But all of this additional data will need to be gathered, assessed, 
 and cleaned. This is where you come in.
+
+
+- Gathering, assessing, cleaning, storing, analyzing and visualzing efforts are documented in [Wrangle Act](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb)
+- [Wrangle Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb) describes my wrangling efforts briefly.
+- [Act Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
