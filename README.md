@@ -18,6 +18,9 @@ and visualizations using Python (and its libraries).
 5. Analyzing Data
 6. Visualizing Data
 
+- Gathering, assessing, cleaning, storing, analyzing and visualzing efforts are documented in [Wrangle Act](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb)
+- [Wrangle Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb) describes my wrangling efforts briefly.
+- [Act Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
 
 #### Project Motivation
 This project was part of the [Data Analyst Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf?utm_campaign=acq_100_auto_ndxxx_syllabus_global&utm_source=blueshift&utm_medium=email&utm_content=acq_100_auto_ndxxx_auto-syllabus_global&bsft_clkid=e35bb41c-6de3-4fd8-a8be-98fde6853f64&bsft_uid=c298ccd0-50bd-484b-9481-d45b3ac669f8&bsft_mid=13f86b25-7b59-4122-8af9-19e22212dcab&bsft_eid=063b0846-68f4-0fd6-1512-dae12f602902&bsft_txnid=a274ee4a-7f22-412e-80ef-a9b8bbddd46a)
@@ -57,8 +60,3 @@ alongside each tweet ID, image URL, and the image number that corresponded to th
 
 So that's all fun and good. But all of this additional data will need to be gathered, assessed, 
 and cleaned. This is where you come in.
-
-
-- Gathering, assessing, cleaning, storing, analyzing and visualzing efforts are documented in [Wrangle Act](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb)
-- [Wrangle Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/wrangle_act.ipynb) describes my wrangling efforts briefly.
-- [Act Report](https://github.com/kbhardwaj27/Wrangle-And-Analyze-Data/blob/master/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
